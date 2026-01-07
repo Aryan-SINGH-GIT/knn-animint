@@ -1,0 +1,91 @@
+x	y	label	showSelected1
+0.5	0.5	"k = 1
+Predicted: second class
+(1 votes)"	1
+0.5	0.5	"k = 2
+Predicted: first class
+(1 votes)"	2
+0.5	0.5	"k = 3
+Predicted: second class
+(2 votes)"	3
+0.5	0.5	"k = 4
+Predicted: second class
+(3 votes)"	4
+0.5	0.5	"k = 5
+Predicted: second class
+(4 votes)"	5
+0.5	0.5	"k = 6
+Predicted: second class
+(5 votes)"	6
+0.5	0.5	"k = 7
+Predicted: second class
+(6 votes)"	7
+0.5	0.5	"k = 8
+Predicted: second class
+(7 votes)"	8
+0.5	0.5	"k = 9
+Predicted: second class
+(8 votes)"	9
+0.5	0.5	"k = 10
+Predicted: second class
+(9 votes)"	10
+0.5	0.5	"k = 11
+Predicted: second class
+(10 votes)"	11
+0.5	0.5	"k = 12
+Predicted: second class
+(10 votes)"	12
+0.5	0.5	"k = 13
+Predicted: second class
+(11 votes)"	13
+0.5	0.5	"k = 14
+Predicted: second class
+(12 votes)"	14
+0.5	0.5	"k = 15
+Predicted: second class
+(13 votes)"	15
+0.5	0.5	"k = 16
+Predicted: second class
+(13 votes)"	16
+0.5	0.5	"k = 17
+Predicted: second class
+(13 votes)"	17
+0.5	0.5	"k = 18
+Predicted: second class
+(13 votes)"	18
+0.5	0.5	"k = 19
+Predicted: second class
+(14 votes)"	19
+0.5	0.5	"k = 20
+Predicted: second class
+(15 votes)"	20
+0.5	0.5	"k = 21
+Predicted: second class
+(16 votes)"	21
+0.5	0.5	"k = 22
+Predicted: second class
+(16 votes)"	22
+0.5	0.5	"k = 23
+Predicted: second class
+(17 votes)"	23
+0.5	0.5	"k = 24
+Predicted: second class
+(17 votes)"	24
+0.5	0.5	"k = 25
+Predicted: second class
+(17 votes)"	25
+0.5	0.5	"k = 26
+Predicted: second class
+(18 votes)"	26
+0.5	0.5	"k = 27
+Predicted: second class
+(18 votes)"	27
+0.5	0.5	"k = 28
+Predicted: second class
+(19 votes)"	28
+0.5	0.5	"k = 29
+Predicted: second class
+(19 votes)"	29
+0.5	0.5	"k = 30
+Predicted: second class
+(19 votes)"	30
