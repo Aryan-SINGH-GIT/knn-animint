@@ -1031,6 +1031,6 @@
 ] 
 } 
 },
-"source": "Based on animation::knn.ani()",
+"source": "https://github.com/Aryan-SINGH-GIT/animated-interactive-ggplots/blob/master/02_animint2_interactions/knn_animint.R",
 "title": "k-Nearest Neighbors Classification" 
 }
