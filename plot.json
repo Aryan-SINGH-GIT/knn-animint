@@ -579,8 +579,8 @@
 "selector": "class",
 "is_discrete": true,
 "legend_type": "fill",
-"text_size": "18pt",
-"title_size": "20pt",
+"text_size": "12pt",
+"title_size": "14pt",
 "entries": [
  {
  "pointfill": "#4472C4",
@@ -893,12 +893,12 @@
 },
 "xtitle": "Class",
 "strip_text_xsize": "12pt",
-"xsize": "18pt",
+"xsize": "12pt",
 "xangle":        0,
 "xanchor": "middle",
 "ytitle": "Votes",
 "strip_text_ysize": "12pt",
-"ysize": "18pt",
+"ysize": "12pt",
 "yangle":        0,
 "yanchor": "end",
 "xlabs": [
