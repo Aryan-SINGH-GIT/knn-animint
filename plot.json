@@ -467,7 +467,7 @@
 "check_overlap": false,
 "na.rm": false,
 "na.rm": false,
-"size":       10,
+"size":       22,
 "fontface": "bold",
 "vjust":        0,
 "showSelected": "frame.id",
@@ -725,12 +725,12 @@
 },
 "xtitle": "x1",
 "strip_text_xsize": "12pt",
-"xsize": "14pt",
+"xsize": "20pt",
 "xangle":        0,
 "xanchor": "middle",
 "ytitle": "x2",
 "strip_text_ysize": "12pt",
-"ysize": "14pt",
+"ysize": "20pt",
 "yangle":        0,
 "yanchor": "end",
 "xlabs": [
@@ -893,12 +893,12 @@
 },
 "xtitle": "Class",
 "strip_text_xsize": "12pt",
-"xsize": "10pt",
+"xsize": "18pt",
 "xangle":        0,
 "xanchor": "middle",
 "ytitle": "Votes",
 "strip_text_ysize": "12pt",
-"ysize": "10pt",
+"ysize": "18pt",
 "yangle":        0,
 "yanchor": "end",
 "xlabs": [
@@ -915,7 +915,7 @@
 "30" 
 ],
 "title": "Classification Votes",
-"title_size": "14.4pt",
+"title_size": "22pt",
 "options": {
  "width":      600,
 "height":      600 
