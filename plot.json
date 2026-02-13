@@ -579,8 +579,8 @@
 "selector": "class",
 "is_discrete": true,
 "legend_type": "fill",
-"text_size": "9.6pt",
-"title_size": "12pt",
+"text_size": "20pt",
+"title_size": "24pt",
 "entries": [
  {
  "pointfill": "#4472C4",
