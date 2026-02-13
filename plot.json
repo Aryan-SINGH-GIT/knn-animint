@@ -467,7 +467,7 @@
 "check_overlap": false,
 "na.rm": false,
 "na.rm": false,
-"size":       14,
+"size":       12,
 "fontface": "bold",
 "vjust":        0,
 "showSelected": "frame.id",
